@@ -8,5 +8,8 @@ namespace YearlyStudentCostApp
 {
     class Sample
     {
+
+        public string firstName;
+        public string lastName;
     }
 }
