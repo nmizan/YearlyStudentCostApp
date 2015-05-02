@@ -1,0 +1,4 @@
+G:\asp.net\00.WinForm\YearlyStudentCostApp\YearlyStudentCostApp\bin\Debug\YearlyStudentCostApp.exe.config
+G:\asp.net\00.WinForm\YearlyStudentCostApp\YearlyStudentCostApp\obj\Debug\YearlyStudentCostApp.Form1.resources
+G:\asp.net\00.WinForm\YearlyStudentCostApp\YearlyStudentCostApp\obj\Debug\YearlyStudentCostApp.Properties.Resources.resources
+G:\asp.net\00.WinForm\YearlyStudentCostApp\YearlyStudentCostApp\obj\Debug\YearlyStudentCostApp.csproj.GenerateResource.Cache
